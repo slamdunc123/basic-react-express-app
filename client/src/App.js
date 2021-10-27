@@ -14,7 +14,7 @@ function App() {
 	return (
 		<div className='App'>
 			<header className='App-header'>
-				<p>Hello</p>
+				<p>Basic React Express App</p>
 				<img src={logo} className='App-logo' alt='logo' />
 				<p>{!data ? 'Loading...' : data}</p>
 			</header>
